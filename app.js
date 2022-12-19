@@ -65,12 +65,12 @@ function speakThis(message) {
         const finalText = "I am fine";
         speech.text = finalText;
     }
- else if(message.includes('բարև')) {
-        const finalText = "ello";
+ else if(message.includes('барев')) {
+        const finalText = "барев ахпер джан";
         speech.text = finalText;
     }
     else if(message.includes('what is my name')) {
-        const finalText = "My name is Khachatur";
+        const finalText = "your name is Khachatur";
         speech.text = finalText;
     }
 
