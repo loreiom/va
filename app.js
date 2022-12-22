@@ -76,7 +76,7 @@ function speakThis(message) {
 
     else if(message.includes('open google')) {
         window.open("https://google.com", "_blank");
-        const finalText = "Opening Google";
+        const finalText = "бацвум э гугл";
         speech.text = finalText;
     }
 
