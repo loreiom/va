@@ -15,7 +15,7 @@ function wishMe() {
     var hr = day.getHours();
 
     if(hr >= 0 && hr < 12) {
-        speak("Good Morning Khachatur");
+        speak("Good Morning ");
     }
 
     else if(hr == 12) {
@@ -27,7 +27,7 @@ function wishMe() {
     }
 
     else {
-        speak("Good Evening Boss");
+        speak("Барев азиз джан");
     }
 }
 
