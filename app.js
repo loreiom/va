@@ -70,7 +70,7 @@ function speakThis(message) {
         speech.text = finalText;
     }
     else if(message.includes('what is my name')) {
-        const finalText = "your name is Khachatur";
+        const finalText = "ес инч иманам инча";
         speech.text = finalText;
     }
 
