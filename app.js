@@ -32,7 +32,7 @@ function wishMe() {
 }
 
 window.addEventListener('load', ()=>{
-    speak("Activating Inertia");
+    speak("Activating Mary ");
     speak("Going online");
     wishMe();
 })
